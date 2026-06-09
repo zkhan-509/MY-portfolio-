@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { scroll-behavior: smooth; box-sizing: border-box; }
+
+body {
+  background-color: #0a0a0f;
+  color: #f0f0f8;
+  font-family: 'DM Sans', sans-serif;
+  margin: 0;
+}
