@@ -15,7 +15,7 @@ const projects = [
     desc: "This portfolio — built with React + Vite + Tailwind + Framer Motion.",
     tags: ["React", "Vite", "Tailwind", "Framer Motion"],
     emoji: "💼",
-    github: "https://github.com/yourusername/portfolio",
+    github: "https://github.com/zkhan-509/MY-portfolio-",
     demo: "#",
   },
   {
